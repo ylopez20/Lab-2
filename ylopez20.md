@@ -1,11 +1,17 @@
-int i=0
-while i=(1)
+//Problem 2
+**
+n = input number
+for(n=1, n<1000)
 {
-  if(a==1)
-    print 1;
-  if(a%2!=0)
-    a=(3*a)+1;
-  else
-    a=a/2;
+    n counter = 0;
+    while(n!=1)
+    {
+      if(n%2==0)
+      ncounter= n+1;
+    }
+    
+    else
+    n=n*3+1;
+    ncounter =n+1
  }
-
+ **
