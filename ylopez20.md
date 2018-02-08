@@ -1,5 +1,5 @@
 //Problem 2
-~~
+~~~
 n = input number
 for(n=1, n<1000)
 {
@@ -14,4 +14,4 @@ for(n=1, n<1000)
     n=n*3+1;
     ncounter =n+1
  }
- ~~
+ ~~~
