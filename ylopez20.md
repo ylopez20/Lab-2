@@ -2,5 +2,10 @@ int i=0
 while i=(1)
 {
   if(a==1)
-    print 1;
-  if
+    print 1;
+  if(a%2!=0)
+    a=(3*a)+1;
+  else
+    a=a/2;
+ }
+
